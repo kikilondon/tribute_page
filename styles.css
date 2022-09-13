@@ -1,0 +1,159 @@
+.hero-image{
+
+  background-image: url("https://cdn3.pitchfork.com/longform/728/Wes-Anderson.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+position: relative;
+}
+  
+#image{
+max-width: 100%;
+  height: auto;
+  display: block;
+ }
+
+footer{
+        text-align: center;
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 12px;
+    }
+
+h1{
+  font-family: "Staatliches", sans-serif;
+  font-size:80px;
+  color: #C55300;
+  font-kerning: none;
+  text-align: center;
+ 
+ 
+}
+body{
+background-color: bisque;
+margin:0%;
+padding:0%;
+
+}
+figure{
+
+  margin-left:0%;
+  margin-right:0%;
+}
+main{
+  margin-left: 0%;
+  margin-right: 0%;
+}
+h3{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+  color: #212427;
+  
+}
+
+h2{
+color: #212427;
+font-family: 'Cormorant Garamond', serif;
+font-size: 32px;
+}
+li{
+font-family: 'Lato', sans-serif;
+color: #3F3F3F;
+font-size: 16px;
+text-align: left;
+}
+
+
+p{
+font-family: 'Lato', sans-serif;
+color: #3F3F3F;
+font-size: 12px;
+text-align: left;
+}
+#intro{
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+#intro-p{font-family: 'Lato', sans-serif;
+  color: #3F3F3F;
+  font-size: 16px;
+  text-align: left;
+
+}
+#tribute-link{
+  color: #C55300;
+  font-family:'Lato', sans-serif;
+  text-decoration: none;
+ 
+}
+ul{
+  padding-left: 20px;
+
+}
+#footer{
+  text-align: center;
+}
+#quote{
+  color: #3F3F3F;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: bold;
+
+}
+#img-movie{
+  max-width: 100%;
+    height: auto;
+    display:block;
+
+
+}
+#movie-list{
+
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#img-quote{
+  border: 5px solid;
+  border-color: #C55300;
+  border-radius: 50%;
+ width: 290px;
+
+}
+#quote-section{
+  display:flex;
+  align-items: center;
+}
+
+
+#quote-box{
+
+  padding-left: 40px;
+}
+ul{
+list-style-type: square;
+
+}
+li::marker{
+  color: #C55300;
+  font-size: 25px;
+}
+#pquote{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  font-style: italic;
+  padding-bottom: 20px;
+  align-items: center;
+ 
+
+}
+.container {
+  font-family:'Lato', sans-serif;
+   color: #3F3F3F; 
+   font-size: 14px;
+
+}
+
+
